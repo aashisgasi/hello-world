@@ -1,3 +1,3 @@
 # hello
 myfirst
-I love coffee::tea::pizza:, and :dancer:.
+I love :coffee::tea::pizza:, and :dancer:.
